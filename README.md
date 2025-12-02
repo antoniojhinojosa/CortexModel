@@ -1,4 +1,11 @@
 # CortexModel
+## Note about this repository
+
+This is a fork of the Lagnado Lab repository containing the modelling code used in our study.  
+I did not write this code myself, but I contributed to the conceptual design, model interpretation,  
+and integration of the modeling with our imaging experiments.  
+
+I am sharing this fork so that my work and the underlying code are accessible together.
 
 ## Overview
 
