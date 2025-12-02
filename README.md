@@ -9,7 +9,7 @@ I am sharing this fork so that my work and the underlying code are accessible to
 
 ## Overview
 
-A rate-based model of adaptation and behavioural state dependency in layer 2/3 of mouse V1 described in <b><i>[reference placeholder]</i></b> manuscript.
+A rate-based model of adaptation and behavioural state dependency in layer 2/3 of mouse V1 described in [<b><i>[Hinojosa, Kosiachkin et al. 2025]</i></b>](https://www.biorxiv.org/content/10.1101/2025.07.24.666602v2) manuscript.
 
 ## Repo Contents
 
@@ -65,6 +65,6 @@ Next in [C_S1_hab_Dep_NoLoco_1_paper.ipynb](./C_S1_hab_Dep_NoLoco_1_paper.ipynb)
 
 ## Citation
 
-For usage of the model and associated manuscript, please cite according to the enclosed <b><i>[reference placeholder]</i></b>
+For usage of the model and associated manuscript, please cite according to the enclosed [<b><i>[Hinojosa, Kosiachkin et al. 2025]</i></b>](https://www.biorxiv.org/content/10.1101/2025.07.24.666602v2)
 
 
